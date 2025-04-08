@@ -74,7 +74,7 @@ Loads trained model from ``.txt file``
 
 # Build
 > [!NOTE]
-`mlperceptron` uses `pd.build`. To build the external on Linux, Mac, and Windows (using Mingw64):
+`mlperceptron` uses [pd.cmake](https://github.com/pure-data/pd.cmake). To build the external on Linux, Mac, and Windows (using Mingw64):
 
 1. `git clone https://github.com/oviniciuscesar/mlperceptron/ --recursive`;
 2. `cd cnn2d`;
