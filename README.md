@@ -4,7 +4,7 @@ The project aims to integrate machine learning algorithms into the `Pure Data` e
 
 
 
-#Key Features
+# Key Features
 ✅ Fully configurable network architecture
 
 Define the number of layers, input dimension, and neurons per layer.
